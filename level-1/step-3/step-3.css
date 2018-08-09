@@ -6,6 +6,9 @@
 
 .content-mid-header {
   background: #444;
+  margin: 8vh 6vh 0vh 6vh;
+  width: auto;
+  height: 10vh;
 }
 
 .content-container {
@@ -13,5 +16,13 @@
 }
 
 .content {
+  display: flex;
   background: #D8D8D8;
+  margin: 0vh 6vh 10vh 6vh;
+  width: auto;
+  height: 30vh;
+  padding: 15vh 2vh 2vh 0vh;
+  text-align: center;
+  font-size: 10px;
+  font-family: Arial, Helvetica, sans-serif;
 }
